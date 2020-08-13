@@ -1,0 +1,32 @@
+#app{
+    width: 30vw;
+    height: 50vh;
+    background-color: rgb(211, 208, 208);
+    margin: 30px auto;
+}
+
+h2{
+    width: 100%;
+    margin: 25px auto;
+    text-align: center;
+    color: #FFF;
+}
+
+li{
+    color: #004166;
+
+}
+
+.inputs{
+    width: 20vw;
+    margin: 1px auto;
+}
+
+a{
+    color: #004166;
+}
+
+button{
+    background-color: #004166;
+    color: aliceblue;
+}
